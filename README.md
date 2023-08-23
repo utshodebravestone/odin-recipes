@@ -1,2 +1,3 @@
 # odin-recipes
-Assigned project from the odin project curriculum 
+
+Assigned project from the odin project curriculum
